@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Threaded Touch Embroidery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Threaded Touch Embroidery</h1>
+    <p>Custom Apparel Embroidery for Every Occasion</p>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>We specialize in personalized embroidery for hats, shirts, bags, and more. Whether it's for your business, team, or a personal gift — we bring your designs to life with precision and care.</p>
+  </section>
+
+  <section class="gallery">
+    <h2>Our Work</h2>
+    <div class="images">
+      <img src="images/sample1.jpg" alt="Custom Embroidered Hat">
+      <img src="images/sample2.jpg" alt="Logo Embroidery on Shirt">
+      <img src="images/sample3.jpg" alt="Embroidered Jacket Back">
+    </div>
+  </section>
+
+  <section class="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Custom Logo Embroidery</li>
+      <li>Bulk Orders & Team Apparel</li>
+      <li>Personalized Gifts</li>
+      <li>Fast Turnaround Times</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Get a Quote</h2>
+    <p>Email us at <a href="mailto:info@threadedtouch.com">info@threadedtouch.com</a> or send us a message using the form below:</p>
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea placeholder="Tell us what you need..."></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Threaded Touch Embroidery</p>
+  </footer>
+</body>
+</html>
